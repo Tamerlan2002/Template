@@ -1,0 +1,124 @@
+body{
+    background-image: url("https://www.html5webtemplates.co.uk/templates/textured_green/style/background.png")
+}
+.heading{
+    width:100%;
+    height: 87px
+}
+.heading1{
+    font-size: 50px;
+    margin-top: 40px;
+    margin-left: 140px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.heading2{
+    color:green;
+    display: inline;
+    font-size:43px;
+    position: absolute;
+    top: 17px;
+    left: 345px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.beneath{
+    position: absolute;
+    top:80px;
+    left: 150px;
+    color: #676767
+}
+.navbar{
+    margin-top: 70px;
+    margin-left: 100px;
+    width:70%;
+    height: 72px;
+    background-color: #777;
+    opacity: 0.9
+}
+.menu{
+    list-style-type:none; 
+    margin:0;
+    padding:0;
+    overflow: hidden;
+
+}
+.menu li{
+    list-style-type:none; 
+    float:left;
+    margin:0;
+    padding:0;
+}
+li a{
+    display: block;
+    color:white;
+    text-align:center;
+    Padding:27px 27px;
+    text-decoration: none
+}
+li a:hover {
+    background-color:#068900
+}
+.main{
+    clear: both;
+    background-color: rgba(240, 255, 255, 0.371);
+    padding: 20px 30px;
+    margin:30px 0px 0px 100px; 
+    width: 65.3%;
+    height: 850px;
+}
+.intro{
+    width: 70%;
+    height: auto;
+    float:left
+}
+.inhead{
+    color: #068900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.incontent{
+    color: #777
+}
+.sidebar{
+    width: 20%;
+    height: auto;
+    float:right
+}
+.ndcont{
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.sidehead{
+    color:green
+}
+.weblaunch h2{
+    color:green
+}
+.footer{
+    clear: both;
+    position: relative;
+    margin-left: 100px;
+    width:70%;
+    height: 72px;
+    background-color: #777;
+    opacity: 0.9
+}
+.copyright{
+    float:left;
+    margin-left: 30px;
+    padding: 14px;
+    color: white
+}
+.refer{
+    float:left;
+    padding: 30px;
+    text-align: center
+}
+.refer a:link{
+    text-decoration: none;
+    color:white
+}
+.uselink .sidehead a:link{
+    color: #FD5BFF
+}
+.search h2{
+    color: green
+}
